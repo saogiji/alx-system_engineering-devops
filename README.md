@@ -1,2 +1,0 @@
-# 0x00. Shell, basics
-This repository contains tasks that will enable an individual to understand what shell is, how to navigate, look around and manipulate files by using commands such as man, chmod, cd and others.
